@@ -269,6 +269,14 @@ appVersion: 1.0.0
     <img width="1200 height="600" src="/img/helm-list2.png">
 </p>
 
+| Change version |
+| :---: |
+<p align="center">
+    <img width="1200 height="600" src="/img/change_v.png">
+</p>
+<p align="center">
+    <img width="1200 height="600" src="/img/change_v1.png">
+</p>
 
 ### Правила приёма работы
 
